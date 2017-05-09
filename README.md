@@ -2,7 +2,7 @@
 
 Train your cats and level up them until they become the ultimate boxing champs.
 
-Living app: https://mysterious-fjord-92769.herokuapp.com
+**Living app:** https://hidden-journey-52716.herokuapp.com/index.html
 
 ## Getting Started
 
@@ -17,7 +17,7 @@ These instructions will get you a copy of the project up and running on your loc
 Download `ZIP` or clone the repository with [Git](https://git-scm.com/)
 
 ```
-git clone https://github.com/rbelow/vanilla-cat-clicker-mvc.git
+git clone https://github.com/rbelow/knockout-da-cat.git
 ```
 
 Install dependencies with [npm](https://www.npmjs.com/)
