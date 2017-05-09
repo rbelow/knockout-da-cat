@@ -1,0 +1,7 @@
+.cat {
+  cursor: pointer;
+}
+
+img {
+  cursor: url(../img/boxing.png), auto;
+}
